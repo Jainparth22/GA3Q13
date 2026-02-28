@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "scraper": "node scraper.js"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.46.0"
+  }
+}
